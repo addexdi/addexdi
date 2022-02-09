@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **addexdi/addexdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: onelordad@gmail.com...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ### Hi there 👋, I am Adam Ibrahim.
 ## Call me Addexdi
 
