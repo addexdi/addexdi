@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <div align="center">
   
   ## Top Languages
-  <a href="https://github.com/azeezdot123">
+  <a href="https://github.com/addexdi">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addexdi&theme=tokyonight&layout=compact">
   </a>
 </div>
