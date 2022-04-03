@@ -6,26 +6,22 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on web application development
-- 🌱 I’m currently learning freecodecamp...
+- 🌱 I’m currently learning freecodecamp and ALX...
 - 👯 I’m looking to collaborate on web development...
 - 🤔 I’m looking for help with keeping me updated...
-- 💬 Ask me about ...
+- 💬 Ask me about web development (Frontend development)...
 - 📫 How to reach me: onelordad@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/him
 
 ### Hi there 👋, I am Adam Ibrahim.
 ## Call me Addexdi
-
-
 
 - 🔭 I’m currently working on a open source frontend.
 - 🌱 I’m currently into JavaScript
 - 👯 I’m looking to collaborate on any JavaScript and react open source project
 - 🤔 I’m looking for help with Internship
 - 💬 Ask me to work with you (I am availble to write and code)
-- 📫 How to reach me: [Email me](mailto: onelordad@gmail.com)
-- 😄 Pronouns: He/him
+- 📫 How to reach me: +2348100566607
 - ⚡ Fun fact: nothing funny
 <div align="center">
   
@@ -55,6 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-  https://www.buymeacoffee.com/onelordad
+ 
+[BUYMEACOFFEE](https://www.buymeacoffee.com/onelordad)
 <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
