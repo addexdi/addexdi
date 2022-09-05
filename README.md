@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Hi there 👋, I am Adam Ibrahim.
+### I am Adam Ibrahim.
 ## Call me Addexdi
 
 Here are some ideas to get you started:
