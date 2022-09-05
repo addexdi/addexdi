@@ -1,28 +1,20 @@
 ### Hi there 👋
-
-
-**addexdi/addexdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on web application development
-- 🌱 I’m currently learning freecodecamp and ALX...
-- 👯 I’m looking to collaborate on web development...
-- 🤔 I’m looking for help with keeping me updated...
-- 💬 Ask me about web development (Frontend development)...
-- 📫 How to reach me: onelordad@gmail.com...
-- 😄 Pronouns: He/him
-
 ### Hi there 👋, I am Adam Ibrahim.
 ## Call me Addexdi
 
-- 🔭 I’m currently working on a open source frontend.
-- 🌱 I’m currently into JavaScript
-- 👯 I’m looking to collaborate on any JavaScript and react open source project
-- 🤔 I’m looking for help with Internship
-- 💬 Ask me to work with you (I am availble to write and code)
-- 📫 How to reach me: +2348100566607
-- ⚡ Fun fact: nothing funny
+Here are some ideas to get you started:
+
+- 😄 Pronouns: He/him
+- 🔭 I’m currently working at Babsoft Solution...
+- 🌱 I’m currently learning ALX school...
+- 🌱 I’m currently into JavaScript, Python,C programmming, Html, Css, React.js...
+- 👯 I’m looking to collaborate on web development...
+- 💬 Ask me about web development (Frontend development)...
+- 📫 How to reach me: onelordad@gmail.com...
+- 📫 How to reach me: +2348100566607...
+- ⚡ Fun fact: Love to make connections...
+
+
 <div align="center">
   
   ## Github Stats
@@ -53,5 +45,6 @@ Here are some ideas to get you started:
 <div align="center">
  
 [BUYMEACOFFEE](https://www.buymeacoffee.com/onelordad)
-<b>❤️ Thank you for visiting my Github Profile ❤️</b>
+
+ <b>❤️ Thank you for visiting my Github Profile ❤️</b>
 </div>
