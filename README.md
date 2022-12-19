@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 
 ### Connect with me:
-[![Linkedin Badge](https://img.shields.io/badge/-Olamilekan_Azeez-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rufilboy/)](https://www.linkedin.com/in/addexdi/)
-[![Twitter Badge](https://img.shields.io/badge/-@codewithola-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/codewithola)](https://twitter.com/addexdi)
+[![Linkedin Badge](https://img.shields.io/badge/-Adam_Ibrahim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/addeddi/)](https://www.linkedin.com/in/addexdi/)
+[![Twitter Badge](https://img.shields.io/badge/-@addexdi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/addexdi)](https://twitter.com/addexdi)
 
 
 - 😄 Pronouns: He/him
