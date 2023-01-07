@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am Adam Ibrahim.
+### I am Adam Opeoluwa Ibrahim.
 ## Call me Addexdi
 
 Here are some ideas to get you started:
