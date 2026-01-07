@@ -51,7 +51,7 @@
   
 ## 🌟 Top Languages
 
-<a href="https://github.com/addexdi">
+<a href="https://github.com/Addexdi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Addexdi&theme=tokyonight&layout=compact&hide_border=true">
 </a>
 
